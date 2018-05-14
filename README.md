@@ -4,10 +4,13 @@ Todo app built with React, Redux and styled-components.
 
 ### Built With
 
-*   [Create React App](https://github.com/facebook/create-react-app)
-*   [Styled Components](https://github.com/styled-components/styled-components)
-*   [Redux](https://github.com/reduxjs/redux)
+* [Create React App](https://github.com/facebook/create-react-app)
+* [Styled Components](https://github.com/styled-components/styled-components)
+* [Redux](https://github.com/reduxjs/redux)
 
+## Demo
+
+Live demo: [react-todo](http://react-redux-todo-app.surge.sh//)
 
 ## Installing / Getting started
 
